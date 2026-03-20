@@ -1,27 +1,129 @@
 {
   "users": [
     {
-      "username": "joao",
-      "password": "bolo123",
-      "name": "João Silva",
+      "username": "vini",
+      "password": "vini123",
+      "name": "Vinicius Rodrigues",
       "isGerencial": true
     },
     {
-      "username": "maria", 
-      "password": "cake456",
-      "name": "Maria Santos",
+      "username": "jairo", 
+      "password": "jairo123",
+      "name": "Jairo Carvalho",
       "isGerencial": false
     },
     {
-      "username": "pedro",
-      "password": "doces789", 
-      "name": "Pedro Costa",
+      "username": "china",
+      "password": "china123", 
+      "name": "China",
       "isGerencial": false
     },
     {
-      "username": "ana",
-      "password": "sobremesa321",
-      "name": "Ana Oliveira",
+      "username": "batata",
+      "password": "batata123",
+      "name": "Batata",
+      "isGerencial": false
+    },
+   {
+      "username": "vitoria",
+      "password": "vitoria123",
+      "name": "Vitória",
+      "isGerencial": false
+    },
+       {
+      "username": "duda",
+      "password": "duda123",
+      "name": "Eduarda",
+      "isGerencial": false
+    },
+       {
+      "username": "vitor",
+      "password": "vitor123",
+      "name": "Vitor",
+      "isGerencial": false
+    },
+    {
+      "username": "dri",
+      "password": "dri123",
+      "name": "Drielem",
+      "isGerencial": false
+    },
+    {
+      "username": "bia",
+      "password": "bia123",
+      "name": "Bianca",
+      "isGerencial": false
+    },
+       {
+      "username": "bagual",
+      "password": "bagual123",
+      "name": "Valentim",
+      "isGerencial": false
+    },
+       {
+      "username": "bi",
+      "password": "bi123",
+      "name": "Mateus",
+      "isGerencial": false
+    },
+       {
+      "username": "hariel",
+      "password": "hariel123",
+      "name": "Raviel",
+      "isGerencial": false
+    },
+       {
+      "username": "jose",
+      "password": "jose123",
+      "name": "José",
+      "isGerencial": false
+    },
+       {
+      "username": "rennan",
+      "password": "rennan123",
+      "name": "Renan",
+      "isGerencial": false
+    },
+       {
+      "username": "yuri",
+      "password": "yuri123",
+      "name": "Yuri",
+      "isGerencial": false
+    },
+       {
+      "username": "murilo",
+      "password": "murilo123",
+      "name": "Murilo",
+      "isGerencial": false
+    },
+       {
+      "username": "rei",
+      "password": "rei123",
+      "name": "Reinaldo",
+      "isGerencial": false
+    },
+       {
+      "username": "rafa",
+      "password": "rafa123",
+      "name": "Rafael",
+      "isGerencial": false
+    },
+       {
+      "username": "neto",
+      "password": "neto123",
+      "name": "Neto",
+      "isGerencial": false
+    },
+       {
+      "username": "floris",
+      "password": "floris123",
+      "name": "Floris",
+      "isGerencial": false
+    },
+       {
+      "username": "machado",
+      "password": "machado123",
+      "name": "Machado",
       "isGerencial": false
     }
   ]
