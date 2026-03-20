@@ -1,0 +1,30 @@
+{
+  "votacaoAtiva": false,
+  "limiteVotos": 2,
+  "bolos": [
+    {
+      "id": "1",
+      "titulo": "Bolo de Chocolate",
+      "descricao": "Delicioso bolo de chocolate com cobertura cremosa",
+      "count": 1
+    },
+    {
+      "id": "2",
+      "titulo": "Bolo de Morango",
+      "descricao": "Bolo fofo de morango com chantilly fresco",
+      "count": 1
+    },
+    {
+      "id": "3",
+      "titulo": "Bolo de Cenoura",
+      "descricao": "Tradicional bolo de cenoura com cobertura de chocolate",
+      "count": 0
+    },
+    {
+      "id": "1773962718968",
+      "titulo": "fvhfdghgf",
+      "descricao": "hfghfgh",
+      "count": 0
+    }
+  ]
+}

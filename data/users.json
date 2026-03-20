@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "joao",
+      "password": "bolo123",
+      "name": "João Silva",
+      "isGerencial": true
+    },
+    {
+      "username": "maria", 
+      "password": "cake456",
+      "name": "Maria Santos",
+      "isGerencial": false
+    },
+    {
+      "username": "pedro",
+      "password": "doces789", 
+      "name": "Pedro Costa",
+      "isGerencial": false
+    },
+    {
+      "username": "ana",
+      "password": "sobremesa321",
+      "name": "Ana Oliveira",
+      "isGerencial": false
+    }
+  ]
+}

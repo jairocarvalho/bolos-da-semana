@@ -1,0 +1,14 @@
+{
+  "votos": [
+    {
+      "username": "joao",
+      "boloId": "1",
+      "timestamp": "2026-03-20T00:06:25.454Z"
+    },
+    {
+      "username": "joao",
+      "boloId": "2",
+      "timestamp": "2026-03-20T00:06:30.385Z"
+    }
+  ]
+}
