@@ -11,13 +11,12 @@ export default function Home() {
   }, [router])
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-blue-200">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-[#0098da]">
       <div className="text-center">
         <div className="flex items-center justify-center gap-4 mb-6">
-          <img src="/logo-selsyn.svg" alt="Selsyn Tecnologia" className="h-12 w-auto" />
-          <h1 className="text-2xl font-bold text-purple-800">Bolos da Semana</h1>
+          <h1 className="text-2xl font-bold text-[#0098da]">Bolos da Semana</h1>
         </div>
-        <p className="text-gray-600">Redirecionando para o login...</p>
+        <p className="text-gray-800">Redirecionando para o login...</p>
       </div>
     </div>
   )
